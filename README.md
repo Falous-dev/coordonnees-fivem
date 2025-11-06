@@ -10,7 +10,7 @@ Cette ressource contient un petit script FiveM (Lua) avec les fichiers principau
 - `server.lua` — logique côté serveur
 - `fxmanifest.lua` — définition de la ressource
 
-L'objectif typique est d'afficher/collecter des coordonnées ou d'ajouter une fonctionnalité légère côté client/serveur.
+L'objectif typique est d'afficher/collecter des coordonnées ou d'ajouter une fonctionnalité légère côté client/serveur en mettant coords dans le F8 (console client).
 
 ## Installation
 
