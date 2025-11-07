@@ -10,7 +10,11 @@ Cette ressource contient un petit script FiveM (Lua) avec les fichiers principau
 - `server.lua` — logique côté serveur
 - `fxmanifest.lua` — définition de la ressource
 
-L'objectif typique est d'afficher/collecter des coordonnées ou d'ajouter une fonctionnalité légère côté client/serveur en mettant coords dans le F8 (console client).
+L'objectif typique est d'afficher/collecter des coordonnées ou d'ajouter une fonctionnalité légère côté client/serveur en mettant 
+```text
+coords
+```
+dans le F8 (console client).
 
 ## Installation
 
@@ -48,13 +52,5 @@ Quelques bonnes pratiques :
 
 1. Ouvrez une issue pour proposer une amélioration ou signaler un bug.
 2. Faites une branche de fonctionnalité, puis un pull request vers la branche principale.
-
-## Licence
-
-Ce projet est distribué sous la licence Creative Commons Attribution - Pas d'utilisation commerciale 4.0 International (CC BY-NC 4.0).
-
-Résumé : vous pouvez partager et adapter ce projet tant que vous donnez l'attribution appropriée et que vous n'utilisez pas le projet à des fins commerciales. Pour le texte légal complet et les permissions détaillées, consultez :
-
-https://creativecommons.org/licenses/by-nc/4.0/
 
 ## Un fichier `LICENSE` a été ajouté à la racine du dossier indiquant la licence et des instructions d'attribution. Remplacez le placeholder du titulaire dans `LICENSE` par votre nom si nécessaire.
