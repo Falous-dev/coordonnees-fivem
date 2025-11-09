@@ -53,4 +53,4 @@ Quelques bonnes pratiques :
 1. Ouvrez une issue pour proposer une amélioration ou signaler un bug.
 2. Faites une branche de fonctionnalité, puis un pull request vers la branche principale.
 
-## Un fichier `LICENSE` a été ajouté à la racine du dossier indiquant la licence et des instructions d'attribution. Remplacez le placeholder du titulaire dans `LICENSE` par votre nom si nécessaire.
+
