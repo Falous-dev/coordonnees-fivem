@@ -1,1 +1,1 @@
-print("Test : Le script coords est chargé correctement. By falous")
+print("Load : Le script coords est chargé correctement. By falous-dev")
