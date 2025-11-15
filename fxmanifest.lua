@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Falous'
+author 'falous-dev'
 description 'Script pour afficher les coordonnées du joueur'
 version '1.0.0'
 
