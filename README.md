@@ -2,6 +2,8 @@
 
 Ressource FiveM simple fournie en exemple.
 
+https://blog.falous344.fr/2025/11/20/comment-mettre-un-script-sur-votre-serveur-fivem/
+
 ## Clause de non-responsabilité
 
 Ce projet est fourni "tel quel", sans aucune garantie, explicite ou implicite.
